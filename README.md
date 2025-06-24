@@ -40,7 +40,7 @@ Hi i'm a Computer Science Student, aiming to become Web developer and Game devel
 ### 📈 Github Statistics
 
 <div align="center" >
-   <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox"/>
+   <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox"/>
    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticMetaphors&theme=gruvbox&layout=compact&&langs_count=8"/>
 </div>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox) -->
