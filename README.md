@@ -41,12 +41,13 @@ Hi i'm a Computer Science Student, aiming to become Web developer and Game devel
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MysticMetaphors&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox)
    
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticMetaphors&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticMetaphors&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ## 📂 Current Project -->
+### 📂 Current Project
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=OneTeam&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
