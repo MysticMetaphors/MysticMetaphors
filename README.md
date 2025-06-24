@@ -18,7 +18,7 @@ Hi i'm a Computer Science Student, aiming to become Web developer and Game devel
    
 ---
 
-## 🧰 My Tools and Languages 
+### 🧰 My Tools and Languages 
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -35,9 +35,9 @@ Hi i'm a Computer Science Student, aiming to become Web developer and Game devel
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br 
 
-#
+<hr style="border:0.5px solid red; width:100px; margin-top:10px;" />
 
-## 📈 Github Statistics
+### 📈 Github Statistics
 
 <div align="center">
    <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox"/>
