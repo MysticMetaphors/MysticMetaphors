@@ -42,8 +42,9 @@ Hi i'm a Computer Science Student, aiming to become Web developer and Game devel
 <div align="center" >
    <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox"/>
    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticMetaphors&theme=gruvbox&layout=compact&&langs_count=8"/>
-   <img src="https://streak-stats.demolab.com/?user=MysticMetaphors&theme=dark" />
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MysticMetaphors&theme=dark)](https://git.io/streak-stats)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox) -->
    
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticMetaphors&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
