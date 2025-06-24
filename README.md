@@ -35,9 +35,10 @@ Hi i'm a Computer Science Student, aiming to become Web developer and Game devel
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br 
 
+<div style="margin-top: 20px"></div>
 ### 📈 Github Statistics
 
-<div align="center" style="margin-top: 20px">
+<div align="center" >
    <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox"/>
    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticMetaphors&theme=gruvbox&layout=compact&&langs_count=8"/>
 </div>
