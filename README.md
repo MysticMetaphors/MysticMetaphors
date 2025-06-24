@@ -1,4 +1,4 @@
-## 🪶 MysticMetaphors
+### 🪶 MysticMetaphors
 
 **`Student (Developer)`**
 
@@ -6,13 +6,16 @@ Hi! I'm a passionate web developer and a dedicated student striving to grow ever
 
    <p align="left">
       <a href="">
+         <img alt="Facebook" title="Gmail" src="https://custom-icon-badges.demolab.com/badge/-Gmail-red?style=for-the-badge&logo=gmail_5968534&logoColor=white"/>
+      </a> 
+      <a href="">
          <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-blue?style=for-the-badge&logo=20837&logoColor=white"/>
       </a> 
    </p>
 
 ---
 
-## 🧰 My Tools and Languages 
+### 🧰 My Tools and Languages 
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -28,7 +31,9 @@ Hi! I'm a passionate web developer and a dedicated student striving to grow ever
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-## 📈 Github Statistics
+#
+
+### 📈 Github Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox)
 
