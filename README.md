@@ -11,14 +11,14 @@ Hi! I'm a passionate web developer and a dedicated student striving to grow ever
       </a> 
       <img alt="Contact" title="Contact" src="https://custom-icon-badges.demolab.com/badge/-+63--960--687--4147-orange?style=for-the-badge&logo=phone&logoColor=white"/>
       <img alt="Gmail" title="Gmail" src="https://custom-icon-badges.demolab.com/badge/-vonbanalbryan18v@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
+      <a href="https://github.com/MysticMetaphors?tab=repositories">
+         <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>
+      </a> 
    </p>
    
-
 ---
 
-
 ### 🧰 My Tools and Languages 
-
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -34,9 +34,7 @@ Hi! I'm a passionate web developer and a dedicated student striving to grow ever
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br 
    
-
 #
-
 
 ### 📈 Github Statistics
 
