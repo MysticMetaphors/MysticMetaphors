@@ -5,7 +5,7 @@ Hi! I'm a passionate web developer and a dedicated student striving to grow ever
 
    <p align="left">
       <a href="">
-         <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-vonbanalbryan18v@gmail.com-blue?style=for-the-badge&?logo=facebook&logoColor=white"/>
+         <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/?style=for-the-badge&?logo=20837&logoColor=white"/>
       </a> 
    </p>
 
@@ -29,7 +29,7 @@ Hi! I'm a passionate web developer and a dedicated student striving to grow ever
 
 ## 📈 Github Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruv)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox)
 
 ## 📂 Current Project
 
