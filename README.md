@@ -38,12 +38,15 @@ Hi! I'm a passionate web developer and a dedicated student striving to grow ever
 
 ### 📈 Github Statistics
 
-
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox)
+<div align="center">
+   <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox"/>
+   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticMetaphors&theme=gruvbox&layout=compact&&langs_count=8"/>
+</div>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox) -->
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticMetaphors&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticMetaphors&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!--## 📂 Current Project-->
+<!-- ## 📂 Current Project -->
 
 
 
