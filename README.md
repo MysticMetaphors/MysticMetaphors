@@ -1,8 +1,10 @@
-### 🪶 MysticMetaphors
+# 🪶 MysticMetaphors
 
 **`Student (Developer)`**
 
-Hi! I'm a passionate web developer and a dedicated student striving to grow every day in both design and development. With a strong foundation in front-end technologies like HTML, CSS, and JavaScript, I'm actively building real-world projects while learning advanced tools like Vue.js, Tailwind CSS, and Laravel with Inertia.js. As a student, I’m not just aiming to pass — I’m aiming higher: to master my craft, create meaningful digital experiences, and contribute to the tech world with purpose. I believe that every line of code I write is a step closer to becoming a skilled developer who can bring ideas to life and solve real-world problems.
+Hi! I'm a passionate web developer and a dedicated student striving to grow every day in both design and development. With a strong foundation in front-end technologies like HTML, CSS, and JavaScript, I'm actively building real-world projects while learning advanced tools like Vue.js and Laravel with Inertia.js. As a student, I’m not just aiming to pass — I’m aiming higher: to master my craft, create meaningful digital experiences, and contribute to the tech world with purpose. I believe that every line of code I write is a step closer to becoming a skilled developer who can bring ideas to life and solve real-world problems.
+
+Hi i'm a Computer Science Student, aiming to become Web developer and Game developer. I have been practicing code and building small projects such as "<a href="https://github.com/MysticMetaphors/OneTeam">OneTeam</a>" all of my personal projects are designed and executed are done accordingly to be effecient and secure as possible.
 
 
    <p align="left">
@@ -35,7 +37,7 @@ Hi! I'm a passionate web developer and a dedicated student striving to grow ever
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br 
 
----
+#
 
 ### 📈 Github Statistics
 
