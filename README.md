@@ -40,10 +40,11 @@ Hi! I'm a passionate web developer and a dedicated student striving to grow ever
 
 ### 📈 Github Statistics
 
- <p align="left">
+
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox)
+   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticMetaphors)](https://github.com/anuraghazra/github-readme-stats)
- </p>
+
 <!--## 📂 Current Project-->
 
 
