@@ -47,7 +47,7 @@ Hi i'm a Computer Science Student, aiming to become Web developer and Game devel
 
 ### 📂 Current Project
 
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: row;">
 <!--    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=)](https://github.com/MysticMetaphors/OneTeam) -->
    <a href="https://github.com/MysticMetaphors/OneTeam">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=OneTeam&theme=gruvbox" />
