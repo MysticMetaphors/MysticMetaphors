@@ -52,6 +52,7 @@ Hi i'm a Computer Science Student, aiming to become Web developer and Game devel
    <a href="https://github.com/MysticMetaphors/OneTeam">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=OneTeam&theme=gruvbox" />
    </a>
+   #
    <a href="https://github.com/MysticMetaphors/PixelForge">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=PixelForge&theme=gruvbox" />
    </a>
