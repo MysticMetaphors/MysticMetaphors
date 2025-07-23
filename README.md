@@ -48,8 +48,14 @@ Hi i'm a Computer Science Student, aiming to become Web developer and Game devel
 ### 📂 Current Project
 
 <div style="display: flex; flex-direction: column;">
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=OneTeam&theme=gruvbox)](https://github.com/MysticMetaphors/OneTeam)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=PixelForge&theme=gruvbox)](https://github.com/MysticMetaphors/PixelForge)
+<!--    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=)](https://github.com/MysticMetaphors/OneTeam) -->
+   <a href="https://github.com/MysticMetaphors/OneTeam">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=OneTeam&theme=gruvbox" />
+   </a>
+   <a href="https://github.com/MysticMetaphors/PixelForge">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=PixelForge&theme=gruvbox" />
+   </a>
+<!--    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=)](https://github.com/MysticMetaphors/PixelForge) -->
 </div>
 
 
