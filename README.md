@@ -7,10 +7,10 @@ Hi i'm a Computer Science Student, aiming to become Web developer and Game devel
 
    <p align="left">
       <a href="https://www.facebook.com/vonbryan.banal.1">
-         <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Von%20Bryan%20S.%20Bañal-plum?style=for-the-badge&logo=comment-discussion&logoColor=white"/>
+         <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Von%20Bryan%20S.%20Bañal-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"/>
       </a> 
       <a href="https://von-bryan.vercel.app/">
-         <img alt="My Portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/-My%Portfolio-blue?style=for-the-badge&logo=language_24dp_666666_fill0_wght400_grad0_opsz24&logoColor=black"/>
+         <img alt="My Portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/-My%Portfolio-blue?style=for-the-badge&logo=globe&logoColor=white"/>
       </a> 
       <img alt="Contact" title="Contact" src="https://custom-icon-badges.demolab.com/badge/-+63--960--687--4147-orange?style=for-the-badge&logo=phone&logoColor=white"/>
       <img alt="Gmail" title="Gmail" src="https://custom-icon-badges.demolab.com/badge/-vonbanalbryan18v@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
