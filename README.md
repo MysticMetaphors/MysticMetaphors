@@ -7,7 +7,7 @@ Hi i'm a Computer Science Student, aiming to become Web developer and Game devel
 
    <p align="left">
       <a href="https://www.facebook.com/vonbryan.banal.1">
-         <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Von%20Bryan%20S.%20Bañal-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"/>
+         <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Von%20Bryan%20S.%20Bañal-plum?style=for-the-badge&logo=globe&logoColor=black"/>
       </a> 
       <a href="https://von-bryan.vercel.app/">
          <img alt="My Portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/-My%Portfolio-blue?style=for-the-badge&logo=globe&logoColor=white"/>
