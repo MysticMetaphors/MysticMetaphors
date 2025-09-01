@@ -2,7 +2,7 @@
 
 **`Student (Developer)`**
 
-Hi i'm a Computer Science Student, aiming to become Web developer and Game developer. I have been practicing code and building small projects such as "<a href="[https://github.com/MysticMetaphors/OneTeam](https://github.com/MysticMetaphors/BulletinBoard)">E-BulletinBoard</a>" all of my personal projects are designed and executed are done accordingly to be effecient and secure as possible.
+Hi i'm a Computer Science Student, aiming to become Web developer and Game developer. I have been practicing code and building small projects such as "<a href="https://github.com/MysticMetaphors/BulletinBoard">E-BulletinBoard</a>" all of my personal projects are designed and executed are done accordingly to be effecient and secure as possible.
 
 
    <p align="left">
