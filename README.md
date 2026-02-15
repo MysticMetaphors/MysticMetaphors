@@ -2,7 +2,7 @@
 
 **`Junior Frontend Developer & UI/UX Designer`**
 
-Hi i'm a Computer Science Student, aiming to become Web developer and Game developer. I have been practicing code and contributing in "<a href="https://github.com/MysticMetaphors/arvo.git">AR.VO IT Services</a>" all of my personal projects are designed and executed are done accordingly to be effecient and secure as possible.
+Hi i'm a Junior Frontend Developer & UI/UX Designer. I have been practicing code and contributing in "<a href="https://github.com/MysticMetaphors/arvo.git">AR.VO IT Services</a>" all of my personal projects are designed and executed are done accordingly to be effecient and secure as possible.
 
 
    <p align="left">
