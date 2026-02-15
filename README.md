@@ -1,4 +1,4 @@
-# 🪶 MysticMetaphors
+# MysticMetaphors
 
 **`Student (Developer)`**
 
@@ -9,7 +9,7 @@ Hi i'm a Computer Science Student, aiming to become Web developer and Game devel
       <a href="https://www.facebook.com/vonbryan.banal.1">
          <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Von%20Bryan%20S.%20Bañal-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"/>
       </a> 
-      <a href="https://von-bryan.vercel.app/">
+      <a href="https://von-bryan-five-92.vercel.app/">
          <img alt="My Portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/-My%20Portfolio-blue?style=for-the-badge&logo=globe&logoColor=white"/>
       </a> 
       <img alt="Contact" title="Contact" src="https://custom-icon-badges.demolab.com/badge/-+63--960--687--4147-orange?style=for-the-badge&logo=phone&logoColor=white"/>
@@ -29,6 +29,7 @@ Hi i'm a Computer Science Student, aiming to become Web developer and Game devel
 <!-- <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />    
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
           
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />  
 <!-- <img align="left" alt="CodeIgniter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" /> -->
