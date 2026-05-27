@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer & UI/UX Designer`**
 
-Hi i'm a Junior Frontend Developer & UI/UX Designer. I have been practicing code and contributing in "<a href="https://github.com/MysticMetaphors/arvo.git">AR.VO IT Services</a>" all of my personal projects are designed and executed are done accordingly to be effecient and secure as possible.
+Hi i'm a Full-Stack Developer & UI/UX Designer. I love building, beautiful web applications from scratch, transforming complex challenges into resource-efficient and seamless digital experiences.
 
 
    <p align="left">
