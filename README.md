@@ -39,31 +39,18 @@ Hi i'm a Full-Stack Developer & UI/UX Designer. I love building, beautiful web a
 <!-- <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" />
 <br 
 
 #
 
-### 📈 Github Statistics
+### 📈 Github Statistic
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MysticMetaphors&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=MysticMetaphors&theme=dark&short_numbers=true)](https://git.io/streak-stats) -->
 
-![Anurag's GitHub stats](https://my-github-stats-git-main-mysticmetaphors-projects.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox)
+<!-- ![Anurag's GitHub stats](https://my-github-stats-git-main-mysticmetaphors-projects.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox) -->
    
 [![Top Langs](https://my-github-stats-git-main-mysticmetaphors-projects.vercel.app/api/top-langs/?username=MysticMetaphors&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📂 Current Project
-
-<div style="display: block; flex-direction: row;">
-<!--    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=)](https://github.com/MysticMetaphors/OneTeam) -->
-   <a href="https://github.com/MysticMetaphors/OneTeam">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=BulletinBoard&theme=gruvbox" />
-   </a>
-   #
-   <a href="https://github.com/MysticMetaphors/PixelForge">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=PixelForge&theme=gruvbox" />
-   </a>
-<!--    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MysticMetaphors&repo=)](https://github.com/MysticMetaphors/PixelForge) -->
-</div>
-
 
 
