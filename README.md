@@ -1,15 +1,14 @@
 # MysticMetaphors
 
-**`Full-Stack Developer & UI/UX Designer`**
+**`Web Developer & UI/UX Designer`**
 
-Hi i'm a Full-Stack Developer & UI/UX Designer. I love building, beautiful web applications from scratch, transforming complex challenges into resource-efficient and seamless digital experiences.
-
+Hi, I’m Bryan a developer and designer with over a year of experience who loves turning ideas into clean, functional, and engaging digital experiences.
 
    <p align="left">
       <a href="https://www.facebook.com/vonbryan.banal.1">
          <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Von%20Bryan%20S.%20Bañal-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"/>
       </a> 
-      <a href="https://von-bryan-five-92.vercel.app/">
+      <a href="https://von-bryan.framer.website/">
          <img alt="My Portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/-My%20Portfolio-blue?style=for-the-badge&logo=globe&logoColor=white"/>
       </a> 
       <img alt="Contact" title="Contact" src="https://custom-icon-badges.demolab.com/badge/-+63--960--687--4147-orange?style=for-the-badge&logo=phone&logoColor=white"/>
@@ -45,12 +44,12 @@ Hi i'm a Full-Stack Developer & UI/UX Designer. I love building, beautiful web a
 
 #
 
-### 📈 Github Statistic
+<!-- ### 📈 Github Statistic -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=MysticMetaphors&theme=dark&short_numbers=true)](https://git.io/streak-stats) -->
 
 <!-- ![Anurag's GitHub stats](https://my-github-stats-git-main-mysticmetaphors-projects.vercel.app/api?username=MysticMetaphors&show_icons=true&theme=gruvbox) -->
    
-[![Top Langs](https://my-github-stats-git-main-mysticmetaphors-projects.vercel.app/api/top-langs/?username=MysticMetaphors&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://my-github-stats-git-main-mysticmetaphors-projects.vercel.app/api/top-langs/?username=MysticMetaphors&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
